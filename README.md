@@ -7,3 +7,9 @@
 </h1>
 
 <h4 align="center">Anti-Detect, Support for more games, Beautiful GUI, Fast CPS</h4>
+<p align="center">
+  <a href="https://discord.gg/5DF5ywktEJ">
+    <img src="https://discordapp.com/api/guilds/917835452441047061/widget.png?style=shield" alt="Discord Server">
+  </a>
+
+# Overview
