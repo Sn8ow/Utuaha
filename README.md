@@ -11,5 +11,10 @@
   <a href="https://discord.gg/5DF5ywktEJ">
     <img src="https://discordapp.com/api/guilds/917835452441047061/widget.png?style=shield" alt="Discord Server">
   </a>
+  <a href="https://www.reddit.com/r/Utuaha">
+     <img alt="Reddit" src="https://img.shields.io/reddit/subreddit-subscribers/Utuaha?style=social">
+  </a>
+  <a href="https://github.com/Sn8ow/Utuaha/Releases">
+     <img alt="GitRelease" src="https://img.shields.io/github/v/release/Sn8ow/Utuaha?include_prereleases">
 
 # Overview
