@@ -16,5 +16,7 @@
   </a>
   <a href="https://github.com/Sn8ow/Utuaha/Releases">
      <img alt="GitRelease" src="https://img.shields.io/github/v/release/Sn8ow/Utuaha?include_prereleases">
+  </a>
+</p>
 
 # Overview
