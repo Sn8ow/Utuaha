@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/80784394/145071901-ad532d90-5862-4ab2-898e-2275972d8aaa.jpg" alt="Utaha - Your new road to win"></a>
+  <img src="https://user-images.githubusercontent.com/80784394/145074489-240513dd-3791-4187-8bd3-9a641fc7059c.jpg" alt="Utaha - Your new road to win"></a>
     <br>
  Utuaha - A new way to win
   <br>
